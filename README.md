@@ -1,2 +1,2 @@
 # bookmark
-I am developing bookmark used by html,css,javascript
+I am developing bookmark used by html,css
